@@ -12,9 +12,11 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
+    "dotenv": "^6.2.0",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
+    "contentful": "^7.0.5",
     "nodemon": "^1.11.0"
   }
 }
